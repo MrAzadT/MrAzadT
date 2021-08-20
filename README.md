@@ -1,7 +1,8 @@
-### Hi there 👋, I'm Azad Tamal
-#### I am A Frontend Developer
+                                                                      ### Hi 👋, I'm Azad Tamal
+                                                                   
+                                                                     #### I am A Frontend Developer
 
-Skills: React.js | Bootstrap | JavaScript | Tailwind | HTML | CSS 
+                                                   Skills: React.js | Bootstrap | JavaScript | Tailwind | HTML | CSS 
 
 
 
