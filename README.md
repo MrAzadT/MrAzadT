@@ -14,4 +14,4 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MrAzadT)  
 
-![Profile views](https://gpvc.arturio.dev/MrAzadT)  
+ 
